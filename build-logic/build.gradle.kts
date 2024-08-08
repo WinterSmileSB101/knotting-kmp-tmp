@@ -15,6 +15,8 @@ repositories {
 
 dependencies {
     implementation(libs.kotlin.gradle.plugin)
+//    implementation(libs.plugins.jetbrainsCompose)
+//    implementation(libs.plugins.compose.compiler)
     implementation(libs.gradle)
     implementation(libs.kover.gradle.plugin)
     implementation(libs.com.google.devtools.ksp.gradle.plugin)
