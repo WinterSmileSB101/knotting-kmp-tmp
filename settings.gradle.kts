@@ -44,4 +44,4 @@ dependencyResolutionManagement {
 //    }
 }
 
-include(":composeApp", ":platform")
+include(":composeApp", ":domain", ":platform")
