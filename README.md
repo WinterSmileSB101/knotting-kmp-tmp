@@ -1,2 +1,2 @@
-# knotting-kmp-tmp-
+# knotting-kmp-tmp
 kotlin kmp template repo
